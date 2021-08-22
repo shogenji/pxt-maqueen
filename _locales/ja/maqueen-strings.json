@@ -22,5 +22,7 @@
     "maqueen.Motors.All|block": "すべて",
     "maqueen.Voltage.High|block":"High（1）",
     "maqueen.Voltage.Low|block":"Low（0）",
-    "maqueen.ltEvent|block":"%value|のラインセンサーの値が|%vi|のとき"
+    "maqueen.ltEvent|block":"%value|のラインセンサーの値が|%vi|のとき",
+    "maqueen.Patrol1.PatrolLeft|block": "左側",
+    "maqueen.Patrol1.PatrolRight|block": "右側"   
 }
