@@ -19,5 +19,8 @@
     "maqueen.IR_read|block": "IR値",
     "maqueen.servoRun|block": "サーボモーター|%index|の角度を角度|%angle|にする",
     "maqueen.IR_read_version|block": "IRバージョン",
-	"maqueen.Motors.All|block": "すべて"
+    "maqueen.Motors.All|block": "すべて",
+    "maqueen.Voltage.High|block":"High（1）",
+    "maqueen.Voltage.Low|block":"Low（0）",
+    "maqueen.ltEvent|block":"%value|のラインセンサーの値が|%vi|のとき"
 }
